@@ -2,7 +2,7 @@
   "Version": 1,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
-  "NewsTitle": "ALPHA 0.0.3!",
-  "NewsDescription": "This new Update introduces Forward+ rendering mode for pipeline, enabling better shaders and lighting!",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.3-alpha"
+  "NewsTitle": "ALPHA 0.0.4! Texture Generator Fix",
+  "NewsDescription": "New types of cosmos: Void, Standard (Like Milkyway), Way (Dense), Nebular, Cluster, Deep Rich (Fantasy like)",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.4-alpha"
 }
