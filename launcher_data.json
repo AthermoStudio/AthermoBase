@@ -2,7 +2,7 @@
   "Version": 1,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
-  "NewsTitle": "ALPHA 0.0.4! Texture Generator Fix",
-  "NewsDescription": "New types of cosmos: Void, Standard (Like Milkyway), Way (Dense), Nebular, Cluster, Deep Rich (Fantasy like)",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.4-alpha"
+  "NewsTitle": "ALPHA 0.0.5! UNIVERSE",
+  "NewsDescription": "New phases of the moon and an intelligent calendar, matched to the seed!",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.5-alpha"
 }
