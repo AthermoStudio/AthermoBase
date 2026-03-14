@@ -56,7 +56,7 @@ Once installed, launch the application to start managing your game achievements 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/AthermoBase.git
-2. Installer (Coming soon)
+2. (AthermoBase Installer)[https://github.com/AthermoStudio/Launcher
 
 ## License
 This project is licensed under the Limited Usage License - see the [LICENSE](./LICENSE) file for details.
