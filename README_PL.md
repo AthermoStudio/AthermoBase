@@ -59,7 +59,7 @@ Po zainstalowaniu uruchom aplikację, aby rozpocząć zarządzanie osiągnięcia
 1. Sklonuj to repozytorium:
    ```bash
    git clone https://github.com/twojeimie/AthermoBase.git
-2. Instalator (wkrótce)
+2. [Instalator AthermoBase](https://github.com/AthermoStudio/Installer)
 
 ## Licencja
 Ten projekt jest licencjonowany na podstawie licencji Limited Usage License - szczegółowe informacje można znaleźć w pliku [LICENSE](./LICENSE).
