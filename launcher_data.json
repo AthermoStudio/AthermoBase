@@ -1,8 +1,8 @@
 {
-  "Version": 2,
+  "Version": 3,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
-  "NewsTitle": "ALPHA 0.0.5! UNIVERSE",
-  "NewsDescription": "New phases of the moon and an intelligent calendar, matched to the seed!",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.5-alpha"
+  "NewsTitle": "ALPHA 0.0.6! HYBRID LIGHT",
+  "NewsDescription": "New Hybrid light has come! Static and Dynamic! Static is using lightmap, dynamic is rendered in shaders!",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.6-alpha"
 }
