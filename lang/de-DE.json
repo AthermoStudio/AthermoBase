@@ -180,7 +180,7 @@
   "notif.enter_user_pass": "Bitte gib deinen Benutzernamen und dein Passwort ein.",
   "notif.incorrect_captcha": "Falsche Sicherheitsantwort!",
   "notif.incorrect_captcha_human": "Falsche Sicherheitsantwort. Bist du ein Mensch?",
-  "notif.session_limit": "Limit von 5 aktiven Sitzungen erreicht! Melde dich von anderen Geräten ab.",
+  "notif.session_limit": "Das Limit von 5 aktiven Sitzungen wurde erreicht! Bitte melden Sie sich von anderen Geräten ab oder ändern Sie Ihr Passwort.",
   "notif.2fa_required": "Die Zwei-Faktor-Authentifizierung ist aktiviert. Gib den Code ein.",
   "notif.invalid_credentials": "Ungültiger Benutzername oder Passwort oder ungültiger 2FA-Code.",
   "notif.login_success": "Erfolgreich als {0} angemeldet!",
