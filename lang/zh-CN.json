@@ -180,7 +180,7 @@
   "notif.enter_user_pass": "请输入您的用户名和密码。",
   "notif.incorrect_captcha": "安全验证回答不正确！",
   "notif.incorrect_captcha_human": "安全验证回答不正确。您是人类吗？",
-  "notif.session_limit": "已达到 5 个活动会话的限制！请从其他设备登出。",
+  "notif.session_limit": "已达到 5 个活动会话的限制！请从其他设备注销，或更改密码。",
   "notif.2fa_required": "双重身份验证已启用。请输入代码。",
   "notif.invalid_credentials": "用户名或密码无效，或 2FA 代码无效。",
   "notif.login_success": "已成功以 {0} 的身份登录！",
