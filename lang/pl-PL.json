@@ -180,7 +180,7 @@
   "notif.enter_user_pass": "Proszę wprowadzić nazwę użytkownika i hasło.",
   "notif.incorrect_captcha": "Niepoprawna odpowiedź zabezpieczająca!",
   "notif.incorrect_captcha_human": "Niepoprawna odpowiedź zabezpieczająca. Jesteś człowiekiem?",
-  "notif.session_limit": "Osiągnięto limit 5 aktywnych sesji! Wyloguj się z innych urządzeń.",
+  "notif.session_limit": "Osiągnięto limit 5 aktywnych sesji! Wyloguj się z innych urządzeń, lub zmień hasło.",
   "notif.2fa_required": "Autoryzacja dwuetapowa jest włączona. Podaj kod.",
   "notif.invalid_credentials": "Nieprawidłowa nazwa użytkownika lub hasło, albo nieprawidłowy kod 2FA.",
   "notif.login_success": "Pomyślnie zalogowano jako {0}!",
