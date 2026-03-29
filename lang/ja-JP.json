@@ -180,7 +180,7 @@
   "notif.enter_user_pass": "ユーザー名とパスワードを入力してください。",
   "notif.incorrect_captcha": "セキュリティの回答が正しくありません！",
   "notif.incorrect_captcha_human": "セキュリティの回答が正しくありません。あなたは人間ですか？",
-  "notif.session_limit": "アクティブなセッションの上限（5つ）に達しました！他のデバイスからログアウトしてください。",
+  "notif.session_limit": "アクティブなセッションの上限（5）に達しました！他のデバイスからログアウトするか、パスワードを変更してください。",
   "notif.2fa_required": "2段階認証が有効になっています。コードを入力してください。",
   "notif.invalid_credentials": "ユーザー名またはパスワードが無効か、2FAコードが間違っています。",
   "notif.login_success": "{0} として正常にログインしました！",
