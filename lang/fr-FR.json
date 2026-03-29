@@ -180,7 +180,7 @@
   "notif.enter_user_pass": "Veuillez entrer votre nom d'utilisateur et votre mot de passe.",
   "notif.incorrect_captcha": "Réponse de sécurité incorrecte !",
   "notif.incorrect_captcha_human": "Réponse de sécurité incorrecte. Êtes-vous humain ?",
-  "notif.session_limit": "Limite de 5 sessions actives atteinte ! Déconnectez-vous des autres appareils.",
+  "notif.session_limit": "Vous avez atteint la limite de 5 sessions actives ! Déconnectez-vous des autres appareils, ou changez votre mot de passe.",
   "notif.2fa_required": "L'authentification à deux facteurs est activée. Entrez le code.",
   "notif.invalid_credentials": "Nom d'utilisateur ou mot de passe invalide, ou code 2FA incorrect.",
   "notif.login_success": "Connecté avec succès en tant que {0} !",
