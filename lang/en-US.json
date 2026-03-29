@@ -180,7 +180,7 @@
   "notif.enter_user_pass": "Please enter your username and password.",
   "notif.incorrect_captcha": "Incorrect security response!",
   "notif.incorrect_captcha_human": "Incorrect security response. Are you human?",
-  "notif.session_limit": "Reached limit of 5 active sessions! Log out from other devices.",
+  "notif.session_limit": "Reached limit of 5 active sessions! Log out from other devices, or change password.",
   "notif.2fa_required": "Two-Factor Authentication is enabled. Enter the code.",
   "notif.invalid_credentials": "Invalid username or password, or invalid 2FA code.",
   "notif.login_success": "Successfully logged in as {0}!",
