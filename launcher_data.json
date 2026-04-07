@@ -7,7 +7,7 @@
   "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.7-alpha",
 
   "NotificationBar": {
-    "Visible": false,
+    "Visible": true,
     "Message": "See new YouTube channel about ThermoriaVerse!",
     "Color": "#7927F5",
     "Link": "https://youtube.com/@ThermoriaVerse",
