@@ -227,5 +227,13 @@
   "notif.not_logged_in_play": "Cannot start the game, not logged in!",
   "notif.session_token_missing": "Error: Missing session token. Please log in again.",
   "notif.starting_game": "Starting game... (Version: {0})",
-  "notif.game_start_failed": "Failed to start the game: {0}"
+  "notif.game_start_failed": "Failed to start the game: {0}",
+
+  "notif.session_revoked": "The device has been successfully logged out.",
+  "notif.session_revoke_failed": "An error occurred while logging out the device.",
+  
+  "session.unknown_ip": "Unknown IP",
+  "session.unknown_location": "Unknown Location",
+  "session.logged_in": "Logged in:",
+  "session.logout_btn": "Log Out"
 }

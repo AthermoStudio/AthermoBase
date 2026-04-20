@@ -227,5 +227,13 @@
   "notif.not_logged_in_play": "Nie można uruchomić gry, nie zalogowano!",
   "notif.session_token_missing": "Błąd: Brak tokenu sesji. Zaloguj się ponownie.",
   "notif.starting_game": "Uruchamianie gry... (Wersja: {0})",
-  "notif.game_start_failed": "Nie udało się uruchomić gry: {0}"
+  "notif.game_start_failed": "Nie udało się uruchomić gry: {0}",
+
+  "notif.session_revoked": "Urządzenie zostało pomyślnie wylogowane.",
+  "notif.session_revoke_failed": "Wystąpił błąd przy wylogowywaniu z urządzenia.",
+  
+  "session.unknown_ip": "Nieznane IP",
+  "session.unknown_location": "Nieznana lokalizacja",
+  "session.logged_in": "Zalogowano:",
+  "session.logout_btn": "Wyloguj"
 }
