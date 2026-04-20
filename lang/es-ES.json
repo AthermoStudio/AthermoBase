@@ -53,6 +53,14 @@
   "account.logout": "Cerrar sesión",
   "account.deletion": "Eliminación de cuenta:",
   "account.delete_account": "Eliminar cuenta",
+  "account.patreon_title": "Cuenta de Patreon:",
+  "account.patreon_sync": "Sincronizar",
+  "account.primary_rank": "Rango principal:",
+  "account.all_ranks": "Todos los rangos:",
+  "account.patreon_linked": "Vinculada",
+  "account.patreon_relink": "Volver a vincular",
+  "account.patreon_not_linked": "No vinculada",
+  "account.patreon_link": "Vincular",
 
   "edit_email.title": "Editar correo electrónico",
   "edit_email.desc": "Este correo electrónico se utilizará para la comunicación y la recuperación de la cuenta.",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "Se ha cerrado la sesión del dispositivo correctamente.",
   "notif.session_revoke_failed": "Ocurrió un error al cerrar la sesión del dispositivo.",
+  "notif.patreon_synced": "¡Rangos de Patreon sincronizados correctamente!",
+  "notif.patreon_sync_error": "Error de sincronización. Vuelve a vincular tu cuenta de Patreon.",
+  "notif.patreon_linking_started": "Inicio de sesión de Patreon abierto en el navegador. ¡Actualiza al terminar!",
   
   "session.unknown_ip": "IP desconocida",
   "session.unknown_location": "Ubicación desconocida",

@@ -53,6 +53,14 @@
   "account.logout": "登出",
   "account.deletion": "账号删除：",
   "account.delete_account": "删除账号",
+  "account.patreon_title": "Patreon 账号：",
+  "account.patreon_sync": "同步",
+  "account.primary_rank": "主要等级：",
+  "account.all_ranks": "所有等级：",
+  "account.patreon_linked": "已绑定",
+  "account.patreon_relink": "重新绑定",
+  "account.patreon_not_linked": "未绑定",
+  "account.patreon_link": "绑定",
 
   "edit_email.title": "编辑电子邮箱",
   "edit_email.desc": "此电子邮箱将用于通信和账号恢复。",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "该设备已成功登出。",
   "notif.session_revoke_failed": "注销设备时发生错误。",
+  "notif.patreon_synced": "Patreon 等级同步成功！",
+  "notif.patreon_sync_error": "同步错误。请重新绑定您的 Patreon 账号。",
+  "notif.patreon_linking_started": "已在浏览器中打开 Patreon 登录页面。完成后请刷新！",
   
   "session.unknown_ip": "未知 IP",
   "session.unknown_location": "未知位置",

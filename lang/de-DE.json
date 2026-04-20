@@ -53,6 +53,14 @@
   "account.logout": "Abmelden",
   "account.deletion": "Kontolöschung:",
   "account.delete_account": "Konto löschen",
+  "account.patreon_title": "Patreon-Konto:",
+  "account.patreon_sync": "Synchronisieren",
+  "account.primary_rank": "Haupt-Rang:",
+  "account.all_ranks": "Alle Ränge:",
+  "account.patreon_linked": "Verknüpft",
+  "account.patreon_relink": "Neu verknüpfen",
+  "account.patreon_not_linked": "Nicht verknüpft",
+  "account.patreon_link": "Verknüpfen",
 
   "edit_email.title": "E-Mail-Adresse bearbeiten",
   "edit_email.desc": "Diese E-Mail wird für die Kommunikation und Kontowiederherstellung verwendet.",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "Das Gerät wurde erfolgreich abgemeldet.",
   "notif.session_revoke_failed": "Beim Abmelden des Geräts ist ein Fehler aufgetreten.",
+  "notif.patreon_synced": "Patreon-Ränge erfolgreich synchronisiert!",
+  "notif.patreon_sync_error": "Synchronisationsfehler. Bitte verknüpfe dein Patreon-Konto erneut.",
+  "notif.patreon_linking_started": "Patreon-Login im Browser geöffnet. Nach Abschluss aktualisieren!",
   
   "session.unknown_ip": "Unbekannte IP",
   "session.unknown_location": "Unbekannter Standort",

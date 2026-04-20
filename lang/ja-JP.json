@@ -53,6 +53,14 @@
   "account.logout": "ログアウト",
   "account.deletion": "アカウントの削除:",
   "account.delete_account": "アカウントを削除",
+  "account.patreon_title": "Patreonアカウント:",
+  "account.patreon_sync": "同期",
+  "account.primary_rank": "メインランク:",
+  "account.all_ranks": "すべてのランク:",
+  "account.patreon_linked": "連携済み",
+  "account.patreon_relink": "再連携",
+  "account.patreon_not_linked": "未連携",
+  "account.patreon_link": "連携",
 
   "edit_email.title": "メールアドレスの編集",
   "edit_email.desc": "このメールアドレスは連絡やアカウントの復旧に使用されます。",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "デバイスは正常にログアウトされました。",
   "notif.session_revoke_failed": "デバイスのログアウト中にエラーが発生しました。",
+  "notif.patreon_synced": "Patreonのランクを正常に同期しました！",
+  "notif.patreon_sync_error": "同期エラー。Patreonアカウントを再連携してください。",
+  "notif.patreon_linking_started": "ブラウザでPatreonのログインを開きました。完了したら更新してください！",
   
   "session.unknown_ip": "不明なIP",
   "session.unknown_location": "不明な場所",

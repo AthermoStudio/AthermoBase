@@ -53,6 +53,14 @@
   "account.logout": "Çıkış yap",
   "account.deletion": "Hesap silme:",
   "account.delete_account": "Hesabı sil",
+  "account.patreon_title": "Patreon Hesabı:",
+  "account.patreon_sync": "Senkronize et",
+  "account.primary_rank": "Birincil Derece:",
+  "account.all_ranks": "Tüm Dereceler:",
+  "account.patreon_linked": "Bağlı",
+  "account.patreon_relink": "Yeniden bağla",
+  "account.patreon_not_linked": "Bağlı değil",
+  "account.patreon_link": "Bağla",
 
   "edit_email.title": "E-posta adresini düzenle",
   "edit_email.desc": "Bu e-posta iletişim ve hesap kurtarma işlemleri için kullanılacaktır.",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "Cihazın oturumu başarıyla kapatıldı.",
   "notif.session_revoke_failed": "Cihazın oturumu kapatılırken bir hata oluştu.",
+  "notif.patreon_synced": "Patreon dereceleri başarıyla senkronize edildi!",
+  "notif.patreon_sync_error": "Senkronizasyon hatası. Lütfen Patreon hesabınızı yeniden bağlayın.",
+  "notif.patreon_linking_started": "Tarayıcıda Patreon girişi açıldı. İşlem bittiğinde yenileyin!",
   
   "session.unknown_ip": "Bilinmeyen IP",
   "session.unknown_location": "Bilinmeyen Konum",

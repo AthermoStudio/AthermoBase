@@ -53,6 +53,14 @@
   "account.logout": "Se déconnecter",
   "account.deletion": "Suppression du compte :",
   "account.delete_account": "Supprimer le compte",
+  "account.patreon_title": "Compte Patreon :",
+  "account.patreon_sync": "Synchroniser",
+  "account.primary_rank": "Rang principal :",
+  "account.all_ranks": "Tous les rangs :",
+  "account.patreon_linked": "Lié",
+  "account.patreon_relink": "Relier",
+  "account.patreon_not_linked": "Non lié",
+  "account.patreon_link": "Lier",
 
   "edit_email.title": "Modifier l'adresse e-mail",
   "edit_email.desc": "Cet e-mail sera utilisé pour les communications et la récupération du compte.",
@@ -103,7 +111,7 @@
 
   "setup_2fa.title": "Configurer la 2FA",
   "setup_2fa.scan": "Scannez ce code QR dans votre application d'authentification :",
-  "setup_2fa.manual": "Clé manuelle :",
+  "setup_2fa.manual": "Clave manuelle :",
   "setup_2fa.enter_code": "Entrez le code 2FA pour vérifier :",
   "setup_2fa.verify": "Vérifier",
 
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "L'appareil a été déconnecté avec succès.",
   "notif.session_revoke_failed": "Une erreur s'est produite lors de la déconnexion de l'appareil.",
+  "notif.patreon_synced": "Rangs Patreon synchronisés avec succès !",
+  "notif.patreon_sync_error": "Erreur de synchronisation. Veuillez relier votre compte Patreon.",
+  "notif.patreon_linking_started": "Connexion Patreon ouverte dans le navigateur. Actualisez une fois terminé !",
   
   "session.unknown_ip": "IP inconnue",
   "session.unknown_location": "Emplacement inconnu",

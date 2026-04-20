@@ -53,6 +53,14 @@
   "account.logout": "Log out",
   "account.deletion": "Account deletion:",
   "account.delete_account": "Delete account",
+  "account.patreon_title": "Patreon Account:",
+  "account.patreon_sync": "Sync",
+  "account.primary_rank": "Primary Rank:",
+  "account.all_ranks": "All Ranks:",
+  "account.patreon_linked": "Linked",
+  "account.patreon_relink": "Relink",
+  "account.patreon_not_linked": "Not linked",
+  "account.patreon_link": "Link",
 
   "edit_email.title": "Edit email address",
   "edit_email.desc": "This email will be used for communication and account recovery.",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "The device has been successfully logged out.",
   "notif.session_revoke_failed": "An error occurred while logging out the device.",
+  "notif.patreon_synced": "Successfully synced Patreon ranks!",
+  "notif.patreon_sync_error": "Sync error. Please relink your Patreon account.",
+  "notif.patreon_linking_started": "Patreon login opened in browser. Refresh when done!",
   
   "session.unknown_ip": "Unknown IP",
   "session.unknown_location": "Unknown Location",

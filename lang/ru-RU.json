@@ -53,6 +53,14 @@
   "account.logout": "Выйти",
   "account.deletion": "Удаление аккаунта:",
   "account.delete_account": "Удалить аккаунт",
+  "account.patreon_title": "Аккаунт Patreon:",
+  "account.patreon_sync": "Синхронизировать",
+  "account.primary_rank": "Основной ранг:",
+  "account.all_ranks": "Все ранги:",
+  "account.patreon_linked": "Привязан",
+  "account.patreon_relink": "Привязать заново",
+  "account.patreon_not_linked": "Не привязан",
+  "account.patreon_link": "Привязать",
 
   "edit_email.title": "Изменить адрес электронной почты",
   "edit_email.desc": "Этот e-mail будет использоваться для связи и восстановления аккаунта.",
@@ -206,7 +214,7 @@
   "notif.nick_change_failed": "Не удалось изменить никнейм: {0}",
   "notif.enter_both_passwords": "Пожалуйста, введите текущий и новый пароли.",
   "notif.new_password_format": "Новый пароль должен содержать не менее 8 символов, не иметь пробелов и включать специальные символы.",
-  "notif.password_changed": "Пароль изменен. Выполнен выход на других устройствах.",
+  "notif.password_changed": "Пароль изменен. Выполнен выход на других устройств.",
   "notif.password_change_failed": "Не удалось изменить пароль: {0}",
   "notif.enter_password": "Вы должны ввести свой пароль.",
   "notif.backup_codes_generated": "Новые резервные коды сгенерированы!",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "Устройство было успешно отключено.",
   "notif.session_revoke_failed": "Произошла ошибка при выходе с устройства.",
+  "notif.patreon_synced": "Ранги Patreon успешно синхронизированы!",
+  "notif.patreon_sync_error": "Ошибка синхронизации. Пожалуйста, привяжите свой аккаунт Patreon заново.",
+  "notif.patreon_linking_started": "Вход в Patreon открыт в браузере. Обновите после завершения!",
   
   "session.unknown_ip": "Неизвестный IP",
   "session.unknown_location": "Неизвестное местоположение",

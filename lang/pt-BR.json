@@ -53,6 +53,14 @@
   "account.logout": "Sair",
   "account.deletion": "Exclusão da conta:",
   "account.delete_account": "Excluir conta",
+  "account.patreon_title": "Conta do Patreon:",
+  "account.patreon_sync": "Sincronizar",
+  "account.primary_rank": "Patente Principal:",
+  "account.all_ranks": "Todas as Patentes:",
+  "account.patreon_linked": "Vinculado",
+  "account.patreon_relink": "Vincular novamente",
+  "account.patreon_not_linked": "Não vinculado",
+  "account.patreon_link": "Vincular",
 
   "edit_email.title": "Editar endereço de e-mail",
   "edit_email.desc": "Este e-mail será usado para comunicação e recuperação de conta.",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "O dispositivo foi desconectado com sucesso.",
   "notif.session_revoke_failed": "Ocorreu um erro ao desconectar o dispositivo.",
+  "notif.patreon_synced": "Patentes do Patreon sincronizadas com sucesso!",
+  "notif.patreon_sync_error": "Erro de sincronização. Por favor, vincule sua conta do Patreon novamente.",
+  "notif.patreon_linking_started": "Login do Patreon aberto no navegador. Atualize quando terminar!",
   
   "session.unknown_ip": "IP desconhecido",
   "session.unknown_location": "Localização desconhecida",

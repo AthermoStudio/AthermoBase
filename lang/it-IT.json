@@ -53,6 +53,14 @@
   "account.logout": "Esci",
   "account.deletion": "Eliminazione account:",
   "account.delete_account": "Elimina account",
+  "account.patreon_title": "Account Patreon:",
+  "account.patreon_sync": "Sincronizza",
+  "account.primary_rank": "Grado principale:",
+  "account.all_ranks": "Tutti i gradi:",
+  "account.patreon_linked": "Collegato",
+  "account.patreon_relink": "Ricollega",
+  "account.patreon_not_linked": "Non collegato",
+  "account.patreon_link": "Collega",
 
   "edit_email.title": "Modifica indirizzo email",
   "edit_email.desc": "Questa email verrà utilizzata per le comunicazioni e il recupero dell'account.",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "Il dispositivo è stato disconnesso con successo.",
   "notif.session_revoke_failed": "Si è verificato un errore durante la disconnessione del dispositivo.",
+  "notif.patreon_synced": "Gradi Patreon sincronizzati con successo!",
+  "notif.patreon_sync_error": "Errore di sincronizzazione. Ricollega l'account Patreon.",
+  "notif.patreon_linking_started": "Accesso Patreon aperto nel browser. Aggiorna al termine!",
   
   "session.unknown_ip": "IP sconosciuto",
   "session.unknown_location": "Posizione sconosciuta",

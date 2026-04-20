@@ -53,6 +53,14 @@
   "account.logout": "Wyloguj",
   "account.deletion": "Usuwanie konta:",
   "account.delete_account": "Usuń konto",
+  "account.patreon_title": "Konto Patreon:",
+  "account.patreon_sync": "Synchronizuj",
+  "account.primary_rank": "Główna Ranga:",
+  "account.all_ranks": "Wszystkie Rangi:",
+  "account.patreon_linked": "Połączono",
+  "account.patreon_relink": "Połącz ponownie",
+  "account.patreon_not_linked": "Niepołączono",
+  "account.patreon_link": "Połącz",
 
   "edit_email.title": "Edytuj adres e-mail",
   "edit_email.desc": "Ten e-mail będzie używany do komunikacji i odzyskiwania konta.",
@@ -231,6 +239,9 @@
 
   "notif.session_revoked": "Urządzenie zostało pomyślnie wylogowane.",
   "notif.session_revoke_failed": "Wystąpił błąd przy wylogowywaniu z urządzenia.",
+  "notif.patreon_synced": "Pomyślnie zsynchronizowano rangi z Patreona!",
+  "notif.patreon_sync_error": "Błąd synchronizacji. Połącz konto Patreon ponownie.",
+  "notif.patreon_linking_started": "Otwarto logowanie Patreon w przeglądarce. Odśwież po zakończeniu!",
   
   "session.unknown_ip": "Nieznane IP",
   "session.unknown_location": "Nieznana lokalizacja",
