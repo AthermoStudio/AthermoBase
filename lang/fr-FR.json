@@ -133,6 +133,8 @@
   "settings.app_settings": "Paramètres de l'application",
   "settings.language": "Langue",
   "settings.uninstall_launcher": "Désinstaller le lanceur",
+  "settings.auto_update_launcher": "Mises à jour automatiques du lanceur",
+  "settings.auto_scroll_text": "Défilement automatique du texte sur les boutons",
 
   "friends.search_placeholder": "Rechercher par pseudo...",
   "friends.find": "Rechercher",
