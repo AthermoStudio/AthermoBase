@@ -133,6 +133,8 @@
   "settings.app_settings": "Impostazioni applicazione",
   "settings.language": "Lingua",
   "settings.uninstall_launcher": "Disinstalla launcher",
+  "settings.auto_update_launcher": "Aggiornamenti automatici del launcher",
+  "settings.auto_scroll_text": "Scorrimento automatico del testo sui pulsanti",
 
   "friends.search_placeholder": "Cerca per nickname...",
   "friends.find": "Cerca",
