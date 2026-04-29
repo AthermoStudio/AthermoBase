@@ -133,6 +133,8 @@
   "settings.app_settings": "Configurações do aplicativo",
   "settings.language": "Idioma",
   "settings.uninstall_launcher": "Desinstalar o inicializador",
+  "settings.auto_update_launcher": "Atualizações automáticas do inicializador",
+  "settings.auto_scroll_text": "Rolagem automática de texto nos botões",
 
   "friends.search_placeholder": "Pesquisar pelo apelido...",
   "friends.find": "Procurar",
