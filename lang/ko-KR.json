@@ -133,6 +133,8 @@
   "settings.app_settings": "앱 설정",
   "settings.language": "언어",
   "settings.uninstall_launcher": "런처 제거",
+  "settings.auto_update_launcher": "자동 런처 업데이트",
+  "settings.auto_scroll_text": "버튼에서 텍스트 자동 스크롤",
 
   "friends.search_placeholder": "닉네임으로 검색...",
   "friends.find": "검색",
