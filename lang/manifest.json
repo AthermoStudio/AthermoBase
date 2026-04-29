@@ -1,17 +1,17 @@
 {
   "languages": {
-    "en-US": 4,
-    "en-GB": 3,
-    "pl-PL": 4,
-    "ru-RU": 4,
-    "de-DE": 4,
-    "ja-JP": 4,
-    "zh-CN": 4,
-    "es-ES": 4,
-    "fr-FR": 4,
-    "pt-BR": 3,
-    "ko-KR": 3,
-    "it-IT": 3,
-    "tr-TR": 3
+    "en-US": 5,
+    "en-GB": 4,
+    "pl-PL": 5,
+    "ru-RU": 5,
+    "de-DE": 5,
+    "ja-JP": 5,
+    "zh-CN": 5,
+    "es-ES": 5,
+    "fr-FR": 5,
+    "pt-BR": 4,
+    "ko-KR": 4,
+    "it-IT": 4,
+    "tr-TR": 4
   }
 }
