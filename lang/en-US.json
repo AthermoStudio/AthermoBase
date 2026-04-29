@@ -134,7 +134,6 @@
   "settings.language": "Language",
   "settings.uninstall_launcher": "Uninstall launcher",
   "settings.auto_update_launcher": "Automatic launcher updates",
-  "settings.auto_scroll_text": "Automatic text scrolling on buttons",
 
   "friends.search_placeholder": "Search by nickname...",
   "friends.find": "Search",
