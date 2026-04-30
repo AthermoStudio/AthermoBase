@@ -15,6 +15,8 @@ The following table outlines the versions of our software that are supported and
 
 **The launcher uses a private server, which currently has room for ~8.5 million players accounts, and 15k to 25k players playing at the same time together every day.**
 
+Server link: [AthermoBase Backend](https://athermobasebackend-c7b4ajdecmg6c7cb.francecentral-01.azurewebsites.net/)
+
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability, please report it by emailing us at AthermoBase.support@int.pl
