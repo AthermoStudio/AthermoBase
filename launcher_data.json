@@ -2,9 +2,9 @@
   "Version": 7,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
-  "NewsTitle": "64+ CHUNKS! NEW GENERATOR",
-  "NewsDescription": "64+ Chunks render dinstance & new game sessions management system!",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.8-alpha",
+  "NewsTitle": "IMPROVED HYBRID LIGHT and MESHES!",
+  "NewsDescription": "A new Atlas system that uses automatic assignment of custom mesh grids!",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.9-alpha",
 
   "NotificationBar": {
     "Visible": true,
