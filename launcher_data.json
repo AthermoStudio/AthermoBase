@@ -1,10 +1,10 @@
 {
-  "Version": 8,
+  "Version": 9,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
   "NewsTitle": "IMPROVED HYBRID LIGHT and MESHES!",
   "NewsDescription": "A new Atlas system that uses automatic assignment of custom mesh grids!",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.9-alpha",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.10-alpha",
 
   "NotificationBar": {
     "Visible": true,
