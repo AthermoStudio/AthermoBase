@@ -134,6 +134,8 @@
   "settings.language": "Sprache",
   "settings.uninstall_launcher": "Launcher deinstallieren",
   "settings.auto_update_launcher": "Automatische Updates des Launchers",
+  "settings.repair_game": "Dateikonsistenzprüfung",
+  "settings.download_limit": "Download-Geschwindigkeitsbegrenzung",
 
   "friends.search_placeholder": "Nach Nickname suchen...",
   "friends.find": "Suchen",
