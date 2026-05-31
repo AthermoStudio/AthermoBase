@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Đồng bộ hạng Patreon thành công!",
   "notif.patreon_sync_error": "Lỗi đồng bộ. Vui lòng liên kết lại tài khoản Patreon của bạn.",
   "notif.patreon_linking_started": "Đã mở trang đăng nhập Patreon trên trình duyệt. Hãy làm mới khi hoàn tất!",
+
+  "notif.not_installed_repair": "Trò chơi chưa được cài đặt để có thể kiểm tra",
+  "notif.repair_success": "Đã xác minh tính toàn vẹn tệp thành công",
+  "notif.repair_cancelled": "Đã hủy xác minh",
+  "notif.repair_failed": "Lỗi xác minh: {0}",
   
   "session.unknown_ip": "IP không xác định",
   "session.unknown_location": "Vị trí không xác định",
