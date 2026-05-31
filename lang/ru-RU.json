@@ -134,6 +134,8 @@
   "settings.language": "Язык",
   "settings.uninstall_launcher": "Удалить лаунчер",
   "settings.auto_update_launcher": "Автоматическое обновление лаунчера",
+  "settings.repair_game": "Проверка целостности файлов",
+  "settings.download_limit": "Ограничение скорости загрузки",
 
   "friends.search_placeholder": "Поиск по никнейму...",
   "friends.find": "Найти",
