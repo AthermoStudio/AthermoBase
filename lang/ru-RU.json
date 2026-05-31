@@ -169,6 +169,7 @@
   "download.game_files": "Загрузка файлов игры...",
   "download.unpacking": "Распаковка файлов игры...",
   "download.cancelling": "Отмена...",
+  "download.verifying": "Проверка целостности файлов...",
 
   "notif.launcher_update_available": "Доступна новая версия лаунчера ({0}). Хотите обновить сейчас?",
   "notif.setup_missing": "Отсутствует исполняемый файл установщика! Невозможно обновить.",
