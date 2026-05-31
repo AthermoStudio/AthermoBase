@@ -169,6 +169,7 @@
   "download.game_files": "正在下载游戏文件...",
   "download.unpacking": "正在解压游戏文件...",
   "download.cancelling": "正在取消...",
+  "download.verifying": "正在验证文件完整性...",
 
   "notif.launcher_update_available": "有一个新的启动器版本 ({0}) 可用。您想现在更新吗？",
   "notif.setup_missing": "缺少安装程序可执行文件！无法更新。",
