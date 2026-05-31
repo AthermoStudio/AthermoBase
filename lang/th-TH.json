@@ -246,6 +246,11 @@
   "notif.patreon_synced": "ซิงค์ยศ Patreon สำเร็จแล้ว!",
   "notif.patreon_sync_error": "ข้อผิดพลาดในการซิงค์ โปรดเชื่อมโยงบัญชี Patreon ของคุณใหม่อีกครั้ง",
   "notif.patreon_linking_started": "เปิดการเข้าสู่ระบบ Patreon ในเบราว์เซอร์แล้ว โปรดรีเฟรชเมื่อเสร็จสิ้น!",
+
+  "notif.not_installed_repair": "เกมยังไม่ได้ติดตั้งเพื่อทำการตรวจสอบ",
+  "notif.repair_success": "ตรวจสอบความสมบูรณ์ของไฟล์สำเร็จแล้ว",
+  "notif.repair_cancelled": "ยกเลิกการตรวจสอบแล้ว",
+  "notif.repair_failed": "ข้อผิดพลาดในการตรวจสอบ: {0}",
   
   "session.unknown_ip": "ไม่ทราบ IP",
   "session.unknown_location": "ไม่ทราบตำแหน่งที่ตั้ง",
