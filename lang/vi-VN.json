@@ -169,6 +169,7 @@
   "download.game_files": "Đang tải tệp trò chơi...",
   "download.unpacking": "Đang giải nén tệp trò chơi...",
   "download.cancelling": "Đang hủy...",
+  "download.verifying": "Đang xác minh tính toàn vẹn tệp...",
 
   "notif.launcher_update_available": "Đã có phiên bản trình khởi chạy mới ({0}). Bạn có muốn cập nhật ngay bây giờ không?",
   "notif.setup_missing": "Thiếu tệp thực thi cài đặt! Không thể cập nhật.",
