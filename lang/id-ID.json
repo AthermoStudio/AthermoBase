@@ -169,6 +169,7 @@
   "download.game_files": "Mengunduh file permainan...",
   "download.unpacking": "Mengekstrak file permainan...",
   "download.cancelling": "Membatalkan...",
+  "download.verifying": "Memverifikasi integritas file...",
 
   "notif.launcher_update_available": "Versi peluncur baru ({0}) tersedia. Apakah Anda ingin memperbarui sekarang?",
   "notif.setup_missing": "Berkas pengaturan tidak ditemukan! Tidak dapat memperbarui.",
