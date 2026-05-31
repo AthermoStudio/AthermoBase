@@ -169,6 +169,7 @@
   "download.game_files": "Descargando archivos del juego...",
   "download.unpacking": "Descomprimiendo archivos del juego...",
   "download.cancelling": "Cancelando...",
+  "download.verifying": "Verificando la integridad de los archivos...",
 
   "notif.launcher_update_available": "Hay una nueva versión del lanzador ({0}) disponible. ¿Deseas actualizar ahora?",
   "notif.setup_missing": "¡Falta el ejecutable del instalador! No se puede actualizar.",
