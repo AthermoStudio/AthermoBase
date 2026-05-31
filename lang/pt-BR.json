@@ -169,6 +169,7 @@
   "download.game_files": "Baixando arquivos do jogo...",
   "download.unpacking": "Descompactando arquivos do jogo...",
   "download.cancelling": "Cancelando...",
+  "download.verifying": "Verificando a integridade dos arquivos...",
 
   "notif.launcher_update_available": "Uma nova versão do inicializador ({0}) está disponível. Deseja atualizar agora?",
   "notif.setup_missing": "O executável do instalador está ausente! Não foi possível atualizar.",
