@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Patreonのランクを正常に同期しました！",
   "notif.patreon_sync_error": "同期エラー。Patreonアカウントを再連携してください。",
   "notif.patreon_linking_started": "ブラウザでPatreonのログインを開きました。完了したら更新してください！",
+
+  "notif.not_installed_repair": "ゲームがインストールされていないため検証できません",
+  "notif.repair_success": "ファイルの整合性が正常に検証されました",
+  "notif.repair_cancelled": "検証がキャンセルされました",
+  "notif.repair_failed": "検証エラー: {0}",
   
   "session.unknown_ip": "不明なIP",
   "session.unknown_location": "不明な場所",
