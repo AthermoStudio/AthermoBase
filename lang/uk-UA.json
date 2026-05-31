@@ -134,6 +134,8 @@
   "settings.language": "Мова",
   "settings.uninstall_launcher": "Видалити лаунчер",
   "settings.auto_update_launcher": "Автоматичні оновлення лаунчера",
+  "settings.repair_game": "Перевірка цілісності файлів",
+  "settings.download_limit": "Обмеження швидкості завантаження",
 
   "friends.search_placeholder": "Пошук за нікнеймом...",
   "friends.find": "Шукати",
