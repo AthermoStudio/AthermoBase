@@ -169,6 +169,7 @@
   "download.game_files": "Spieldateien werden heruntergeladen...",
   "download.unpacking": "Spieldateien werden entpackt...",
   "download.cancelling": "Wird abgebrochen...",
+  "download.verifying": "Überprüfung der Dateiintegrität...",
 
   "notif.launcher_update_available": "Eine neue Launcher-Version ({0}) ist verfügbar. Möchtest du jetzt aktualisieren?",
   "notif.setup_missing": "Installationsprogramm fehlt! Aktualisierung nicht möglich.",
