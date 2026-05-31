@@ -169,6 +169,7 @@
   "download.game_files": "ゲームファイルをダウンロード中...",
   "download.unpacking": "ゲームファイルを展開中...",
   "download.cancelling": "キャンセル中...",
+  "download.verifying": "ファイル整合性の検証中...",
 
   "notif.launcher_update_available": "新しいランチャーバージョン（{0}）が利用可能です。今すぐアップデートしますか？",
   "notif.setup_missing": "インストーラーの実行ファイルが見つかりません！アップデートできません。",
