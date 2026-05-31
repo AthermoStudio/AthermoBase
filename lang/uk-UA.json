@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Ранги Patreon успішно синхронізовано!",
   "notif.patreon_sync_error": "Помилка синхронізації. Будь ласка, переприв'яжіть свій акаунт Patreon.",
   "notif.patreon_linking_started": "Вхід у Patreon відкрито у браузері. Оновіть сторінку, коли закінчите!",
+
+  "notif.not_installed_repair": "Гра не встановлена, щоб її можна було перевірити",
+  "notif.repair_success": "Цілісність файлів успішно перевірено",
+  "notif.repair_cancelled": "Перевірку скасовано",
+  "notif.repair_failed": "Помилка перевірки: {0}",
   
   "session.unknown_ip": "Невідомий IP",
   "session.unknown_location": "Невідоме місцезнаходження",
