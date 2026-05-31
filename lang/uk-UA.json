@@ -169,6 +169,7 @@
   "download.game_files": "Завантаження файлів гри...",
   "download.unpacking": "Розпакування файлів гри...",
   "download.cancelling": "Скасування...",
+  "download.verifying": "Перевірка цілісності файлів...",
 
   "notif.launcher_update_available": "Доступна нова версія лаунчера ({0}). Бажаєте оновити зараз?",
   "notif.setup_missing": "Відсутній виконуваний файл інсталятора! Неможливо оновити.",
