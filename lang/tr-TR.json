@@ -169,6 +169,7 @@
   "download.game_files": "Oyun dosyaları indiriliyor...",
   "download.unpacking": "Oyun dosyaları açılıyor...",
   "download.cancelling": "İptal ediliyor...",
+  "download.verifying": "Dosya bütünlüğü doğrulanıyor...",
 
   "notif.launcher_update_available": "Yeni bir başlatıcı sürümü ({0}) mevcut. Şimdi güncellemek ister misiniz?",
   "notif.setup_missing": "Yükleyici çalıştırılabilir dosyası eksik! Güncellenemiyor.",
