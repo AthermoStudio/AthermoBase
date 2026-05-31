@@ -134,6 +134,8 @@
   "settings.language": "Dil",
   "settings.uninstall_launcher": "Başlatıcıyı kaldır",
   "settings.auto_update_launcher": "Otomatik başlatıcı güncellemeleri",
+  "settings.repair_game": "Dosya bütünlüğü doğrulaması",
+  "settings.download_limit": "İndirme hızı sınırı",
 
   "friends.search_placeholder": "Takma ada göre ara...",
   "friends.find": "Ara",
