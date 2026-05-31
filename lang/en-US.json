@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Successfully synced Patreon ranks!",
   "notif.patreon_sync_error": "Sync error. Please relink your Patreon account.",
   "notif.patreon_linking_started": "Patreon login opened in browser. Refresh when done!",
+
+  "notif.not_installed_repair": "The game is not installed to be able to verify it",
+  "notif.repair_success": "The integrity of the files was successfully verified",
+  "notif.repair_cancelled": "Verification cancelled",
+  "notif.repair_failed": "Verification error: {0}",
   
   "session.unknown_ip": "Unknown IP",
   "session.unknown_location": "Unknown Location",
