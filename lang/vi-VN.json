@@ -134,6 +134,8 @@
   "settings.language": "Ngôn ngữ",
   "settings.uninstall_launcher": "Gỡ cài đặt trình khởi chạy",
   "settings.auto_update_launcher": "Tự động cập nhật trình khởi chạy",
+  "settings.repair_game": "Xác minh tính toàn vẹn tệp",
+  "settings.download_limit": "Giới hạn tốc độ tải xuống",
 
   "friends.search_placeholder": "Tìm kiếm theo biệt danh...",
   "friends.find": "Tìm kiếm",
