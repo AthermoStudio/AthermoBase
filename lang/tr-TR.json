@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Patreon dereceleri başarıyla senkronize edildi!",
   "notif.patreon_sync_error": "Senkronizasyon hatası. Lütfen Patreon hesabınızı yeniden bağlayın.",
   "notif.patreon_linking_started": "Tarayıcıda Patreon girişi açıldı. İşlem bittiğinde yenileyin!",
+
+  "notif.not_installed_repair": "Oyun doğrulanabilmesi için yüklü değil",
+  "notif.repair_success": "Dosya bütünlüğü başarıyla doğrulandı",
+  "notif.repair_cancelled": "Doğrulama iptal edildi",
+  "notif.repair_failed": "Doğrulama hatası: {0}",
   
   "session.unknown_ip": "Bilinmeyen IP",
   "session.unknown_location": "Bilinmeyen Konum",
