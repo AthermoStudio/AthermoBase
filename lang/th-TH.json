@@ -169,6 +169,7 @@
   "download.game_files": "กำลังดาวน์โหลดไฟล์เกม...",
   "download.unpacking": "กำลังแตกไฟล์เกม...",
   "download.cancelling": "กำลังยกเลิก...",
+  "download.verifying": "กำลังตรวจสอบความสมบูรณ์ของไฟล์...",
 
   "notif.launcher_update_available": "ลอนเชอร์เวอร์ชันใหม่ ({0}) พร้อมใช้งาน คุณต้องการอัปเดตตอนนี้หรือไม่?",
   "notif.setup_missing": "ไม่พบไฟล์ติดตั้ง! ไม่สามารถอัปเดตได้",
