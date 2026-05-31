@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Patreon 等级同步成功！",
   "notif.patreon_sync_error": "同步错误。请重新绑定您的 Patreon 账号。",
   "notif.patreon_linking_started": "已在浏览器中打开 Patreon 登录页面。完成后请刷新！",
+
+  "notif.not_installed_repair": "游戏未安装，无法进行验证",
+  "notif.repair_success": "文件完整性验证成功",
+  "notif.repair_cancelled": "已取消验证",
+  "notif.repair_failed": "验证错误：{0}",
   
   "session.unknown_ip": "未知 IP",
   "session.unknown_location": "未知位置",
