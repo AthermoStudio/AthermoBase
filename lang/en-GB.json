@@ -169,6 +169,7 @@
   "download.game_files": "Downloading game files...",
   "download.unpacking": "Unpacking game files...",
   "download.cancelling": "Cancelling...",
+  "download.verifying": "Verifying the integrity of the files...",
 
   "notif.launcher_update_available": "A new launcher version ({0}) is available. Would you like to update now?",
   "notif.setup_missing": "Installer executable is missing! Unable to update.",
