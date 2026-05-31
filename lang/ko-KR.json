@@ -134,6 +134,8 @@
   "settings.language": "언어",
   "settings.uninstall_launcher": "런처 제거",
   "settings.auto_update_launcher": "자동 런처 업데이트",
+  "settings.repair_game": "파일 무결성 검증",
+  "settings.download_limit": "다운로드 속도 제한",
 
   "friends.search_placeholder": "닉네임으로 검색...",
   "friends.find": "검색",
