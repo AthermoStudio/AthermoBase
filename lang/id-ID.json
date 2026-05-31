@@ -134,6 +134,8 @@
   "settings.language": "Bahasa",
   "settings.uninstall_launcher": "Copot pemasangan peluncur",
   "settings.auto_update_launcher": "Pembaruan peluncur otomatis",
+  "settings.repair_game": "Verifikasi konsistensi file",
+  "settings.download_limit": "Batas kecepatan unduhan",
 
   "friends.search_placeholder": "Cari berdasarkan nama panggilan...",
   "friends.find": "Cari",
