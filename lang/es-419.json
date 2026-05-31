@@ -246,6 +246,11 @@
   "notif.patreon_synced": "¡Rangos de Patreon sincronizados correctamente!",
   "notif.patreon_sync_error": "Error de sincronización. Vuelve a vincular tu cuenta de Patreon.",
   "notif.patreon_linking_started": "Se abrió el inicio de sesión de Patreon en el navegador. ¡Actualiza cuando termines!",
+
+  "notif.not_installed_repair": "El juego no está instalado para poder verificarlo",
+  "notif.repair_success": "La integridad de los archivos se verificó correctamente",
+  "notif.repair_cancelled": "Verificación cancelada",
+  "notif.repair_failed": "Error de verificación: {0}",
   
   "session.unknown_ip": "IP desconocida",
   "session.unknown_location": "Ubicación desconocida",
