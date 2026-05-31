@@ -169,6 +169,7 @@
   "download.game_files": "Téléchargement des fichiers du jeu...",
   "download.unpacking": "Décompression des fichiers du jeu...",
   "download.cancelling": "Annulation en cours...",
+  "download.verifying": "Vérification de l'intégrité des fichiers...",
 
   "notif.launcher_update_available": "Une nouvelle version du lanceur ({0}) est disponible. Voulez-vous la mettre à jour maintenant ?",
   "notif.setup_missing": "L'exécutable d'installation est introuvable ! Impossible de mettre à jour.",
