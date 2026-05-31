@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Berhasil menyinkronkan pangkat Patreon!",
   "notif.patreon_sync_error": "Kesalahan sinkronisasi. Harap tautkan ulang akun Patreon Anda.",
   "notif.patreon_linking_started": "Halaman login Patreon dibuka di browser. Segarkan jika sudah selesai!",
+
+  "notif.not_installed_repair": "Game tidak terinstal untuk dapat diverifikasi",
+  "notif.repair_success": "Integritas file berhasil diverifikasi",
+  "notif.repair_cancelled": "Verifikasi dibatalkan",
+  "notif.repair_failed": "Kesalahan verifikasi: {0}",
   
   "session.unknown_ip": "IP tidak diketahui",
   "session.unknown_location": "Lokasi tidak diketahui",
