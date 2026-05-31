@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Rangs Patreon synchronisés avec succès !",
   "notif.patreon_sync_error": "Erreur de synchronisation. Veuillez relier votre compte Patreon.",
   "notif.patreon_linking_started": "Connexion Patreon ouverte dans le navigateur. Actualisez une fois terminé !",
+
+  "notif.not_installed_repair": "Le jeu n'est pas installé pour pouvoir le vérifier",
+  "notif.repair_success": "L'intégrité des fichiers a été vérifiée avec succès",
+  "notif.repair_cancelled": "Vérification annulée",
+  "notif.repair_failed": "Erreur de vérification : {0}",
   
   "session.unknown_ip": "IP inconnue",
   "session.unknown_location": "Emplacement inconnu",
