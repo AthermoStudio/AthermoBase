@@ -246,6 +246,11 @@
   "notif.patreon_synced": "Patreon 등급을 성공적으로 동기화했습니다!",
   "notif.patreon_sync_error": "동기화 오류. Patreon 계정을 다시 연결해 주세요.",
   "notif.patreon_linking_started": "브라우저에서 Patreon 로그인이 열렸습니다. 완료되면 새로고침하세요!",
+
+  "notif.not_installed_repair": "게임이 설치되어 있지 않아 검증할 수 없습니다",
+  "notif.repair_success": "파일 무결성이 성공적으로 검증되었습니다",
+  "notif.repair_cancelled": "검증이 취소되었습니다",
+  "notif.repair_failed": "검증 오류: {0}",
   
   "session.unknown_ip": "알 수 없는 IP",
   "session.unknown_location": "알 수 없는 위치",
