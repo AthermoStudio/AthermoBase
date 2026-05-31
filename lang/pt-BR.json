@@ -134,6 +134,8 @@
   "settings.language": "Idioma",
   "settings.uninstall_launcher": "Desinstalar o inicializador",
   "settings.auto_update_launcher": "Atualizações automáticas do inicializador",
+  "settings.repair_game": "Verificação de integridade dos arquivos",
+  "settings.download_limit": "Limite de velocidade de download",
 
   "friends.search_placeholder": "Pesquisar pelo apelido...",
   "friends.find": "Procurar",
