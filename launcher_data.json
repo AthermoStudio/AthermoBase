@@ -1,10 +1,10 @@
 {
-  "Version": 10,
+  "Version": 11,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
-  "NewsTitle": "100% NEW SHADOWS!",
-  "NewsDescription": "A completely new and smooth lighting and shadow system has been released!",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.11-alpha",
+  "NewsTitle": "FLOAT ORIGIN & UI",
+  "NewsDescription": "Floating Origin, new UI and beautiful planetary rings!",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.13-alpha",
 
   "NotificationBar": {
     "Visible": true,
