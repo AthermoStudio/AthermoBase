@@ -45,7 +45,7 @@ User data is processed for the following purposes:
 * detecting abuse, hacking attempts, and security breaches,
 * maintaining and developing the AthermoBase service.
 
---
+---
 
 ## 4. Data Retention Period
 
@@ -69,13 +69,13 @@ Users have the right to:
 * restrict the processing of their data,
 * lodge a complaint with the competent supervisory authority.
 
---
+---
 
 ## 6. Data Sharing
 
 User data is not sold or made available to third parties, except as required by applicable law.
 
---
+---
 
 ## 7. Data Security
 
@@ -85,7 +85,7 @@ User passwords and account recovery codes are stored as cryptographic hashes.
 
 Users can further secure their accounts by enabling two-factor authentication (2FA).
 
---
+---
 
 ## 8. Changes to the Privacy Policy
 
