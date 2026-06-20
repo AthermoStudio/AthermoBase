@@ -1,7 +1,8 @@
 # AthermoBase Terms of Service
 
 **Effective Date:** June 17, 2026
-**Version:** 1.0
+**Last Updated:** June 21, 2026
+**Version:** 1.1
 
 ## 1. Acceptance of Terms
 
@@ -96,11 +97,13 @@ AthermoBase does not guarantee uninterrupted availability, error-free operation,
 
 Maintenance, updates, outages, or discontinuation of the Service may occur at any time.
 
+All purchases are final and non-refundable unless required by applicable law.
+
 ---
 
 ## 10. Modifications to the Service
 
-AthermoBase may modify, update, replace, restrict, or remove any feature of the Service at any time without prior notice.
+AthermoBase may modify, update, or discontinue features of the Service. Where reasonably possible, users will be informed of significant changes.
 
 Continued use of the Service after changes constitutes acceptance of such changes.
 
@@ -116,10 +119,11 @@ To the maximum extent permitted by applicable law, the Service is provided "as i
 
 To the maximum extent permitted by law, Marcin Doga shall not be liable for:
 
-* loss of data,
+* loss of data, to the extent permitted by law,
 * loss of account access,
 * interruption of service,
 * indirect, incidental, special, consequential, or punitive damages arising from the use of AthermoBase.
+* Users are responsible for content they create or submit within the Service.
 
 ---
 
