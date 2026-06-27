@@ -1,10 +1,10 @@
 {
-  "Version": 11,
+  "Version": 12,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
-  "NewsTitle": "FLOAT ORIGIN & UI",
-  "NewsDescription": "Floating Origin, new UI and beautiful planetary rings!",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.13-alpha",
+  "NewsTitle": "NEW COMMANDS & MENU!",
+  "NewsDescription": "Added some new commands and pause menu with working buttons!",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.14-alpha",
 
   "NotificationBar": {
     "Visible": true,
