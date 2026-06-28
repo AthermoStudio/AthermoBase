@@ -152,6 +152,7 @@
   "settings.auto_update_launcher": "ランチャーを自動で更新",
   "settings.repair_game": "ファイル整合性の検証",
   "settings.download_limit": "ダウンロード速度制限",
+  "settings.auto_close": "自動で閉じる",
 
   "friends.search_placeholder": "ニックネームで検索...",
   "friends.find": "検索",
