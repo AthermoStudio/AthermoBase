@@ -152,6 +152,7 @@
   "settings.auto_update_launcher": "Actualizaciones automáticas del lanzador",
   "settings.repair_game": "Verificación de integridad de archivos",
   "settings.download_limit": "Límite de velocidad de descarga",
+  "settings.auto_close": "Cierre automático",
 
   "friends.search_placeholder": "Buscar por apodo...",
   "friends.find": "Buscar",
