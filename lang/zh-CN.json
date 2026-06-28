@@ -152,6 +152,7 @@
   "settings.auto_update_launcher": "自动启动器更新",
   "settings.repair_game": "文件完整性验证",
   "settings.download_limit": "下载速度限制",
+  "settings.auto_close": "自动关闭",
 
   "friends.search_placeholder": "按昵称搜索...",
   "friends.find": "搜索",
