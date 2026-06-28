@@ -152,6 +152,7 @@
   "settings.auto_update_launcher": "Автоматическое обновление лаунчера",
   "settings.repair_game": "Проверка целостности файлов",
   "settings.download_limit": "Ограничение скорости загрузки",
+  "settings.auto_close": "Автозакрытие",
 
   "friends.search_placeholder": "Поиск по никнейму...",
   "friends.find": "Найти",
