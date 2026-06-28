@@ -152,6 +152,7 @@
   "settings.auto_update_launcher": "อัปเดตลอนเชอร์อัตโนมัติ",
   "settings.repair_game": "การตรวจสอบความสมบูรณ์ของไฟล์",
   "settings.download_limit": "จำกัดความเร็วการดาวน์โหลด",
+  "settings.auto_close": "ปิดอัตโนมัติ",
 
   "friends.search_placeholder": "ค้นหาด้วยชื่อเล่น...",
   "friends.find": "ค้นหา",
