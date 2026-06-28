@@ -152,6 +152,7 @@
   "settings.auto_update_launcher": "자동 런처 업데이트",
   "settings.repair_game": "파일 무결성 검증",
   "settings.download_limit": "다운로드 속도 제한",
+  "settings.auto_close": "자동 닫기",
 
   "friends.search_placeholder": "닉네임으로 검색...",
   "friends.find": "검색",
