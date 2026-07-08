@@ -8,10 +8,10 @@
 
   "NotificationBar": {
     "Visible": true,
-    "Message": "See new YouTube channel about ThermoriaVerse!",
+    "Message": "A physics, weather, and world generator update is coming! V0.0.15 ALPHA",
     "Color": "#7927F5",
-    "Link": "https://youtube.com/@ThermoriaVerse",
-    "StartDate": "2026-04-20T18:00:00",
-    "EndDate": "2026-05-24T23:59:59"
+    "Link": "",
+    "StartDate": "2026-07-08T18:00:00",
+    "EndDate": "2026-07-22T23:59:59"
   }
 }
