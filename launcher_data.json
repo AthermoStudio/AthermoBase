@@ -1,14 +1,14 @@
 {
-  "Version": 13,
+  "Version": 14,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
-  "NewsTitle": "NEW COMMANDS & MENU!",
-  "NewsDescription": "Added some new commands and pause menu with working buttons!",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.14-alpha",
+  "NewsTitle": "PHYSICS, WIND & NEW GENERATOR!",
+  "NewsDescription": "A completely new terrain generator has been added, along with Newtonian physics!",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.15-alpha",
 
   "NotificationBar": {
     "Visible": true,
-    "Message": "A physics, weather, and world generator update is coming! V0.0.15 ALPHA",
+    "Message": "A physics, weather, and world generator update! V0.0.15 ALPHA",
     "Color": "#7927F5",
     "Link": "",
     "StartDate": "2026-07-08T00:00:00",
