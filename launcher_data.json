@@ -1,13 +1,13 @@
 {
-  "Version": 14,
+  "Version": 15,
   "BackgroundUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/background.jpg",
   "NewsImageUrl": "https://raw.githubusercontent.com/AthermoStudio/AthermoBase/refs/heads/master/Data/news_screenshot.png",
-  "NewsTitle": "PHYSICS, WIND & NEW GENERATOR!",
-  "NewsDescription": "A completely new terrain generator has been added, along with Newtonian physics!",
-  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.15-alpha",
+  "NewsTitle": "GI RT LIGHT!",
+  "NewsDescription": "A new lighting model, step-by-step 'denoising,' and more stable light!",
+  "NewsLink": "https://github.com/AthermoStudio/ThermoriaVerse/releases/tag/v0.0.16-alpha",
 
   "NotificationBar": {
-    "Visible": true,
+    "Visible": false,
     "Message": "A physics, weather, and world generator update! V0.0.15 ALPHA",
     "Color": "#7927F5",
     "Link": "",
