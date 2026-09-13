@@ -38,6 +38,8 @@
   "account.email.not_set": "Не встановлено",
   "account.rank": "Ранг:",
   "account.upgrade": "Покращити",
+  "account.role_expires": "До:",
+  "account.role_forever": "Назавжди",
   
   "account.security": "Безпека",
   "account.password": "Пароль:",
