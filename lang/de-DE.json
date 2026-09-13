@@ -38,6 +38,8 @@
   "account.email.not_set": "Nicht festgelegt",
   "account.rank": "Rang:",
   "account.upgrade": "Upgrade",
+  "account.role_expires": "Zu:",
+  "account.role_forever": "für immer",
   
   "account.security": "Sicherheit",
   "account.password": "Passwort:",
