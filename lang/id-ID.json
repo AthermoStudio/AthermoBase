@@ -38,6 +38,8 @@
   "account.email.not_set": "Belum diatur",
   "account.rank": "Pangkat:",
   "account.upgrade": "Tingkatkan",
+  "account.role_expires": "Hingga:",
+  "account.role_forever": "Selamanya",
   
   "account.security": "Keamanan",
   "account.password": "Kata Sandi:",
