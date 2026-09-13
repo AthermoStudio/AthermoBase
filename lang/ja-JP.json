@@ -38,6 +38,8 @@
   "account.email.not_set": "未設定",
   "account.rank": "ランク:",
   "account.upgrade": "アップグレード",
+  "account.role_expires": "まで:",
+  "account.role_forever": "無期限",
   
   "account.security": "セキュリティ",
   "account.password": "パスワード:",
