@@ -38,6 +38,8 @@
   "account.email.not_set": "Не задан",
   "account.rank": "Ранг:",
   "account.upgrade": "Улучшить",
+  "account.role_expires": "До:",
+  "account.role_forever": "Навсегда",
   
   "account.security": "Безопасность",
   "account.password": "Пароль:",
