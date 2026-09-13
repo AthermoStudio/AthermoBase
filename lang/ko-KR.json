@@ -38,6 +38,8 @@
   "account.email.not_set": "설정되지 않음",
   "account.rank": "등급:",
   "account.upgrade": "업그레이드",
+  "account.role_expires": "까지:",
+  "account.role_forever": "무기한",
   
   "account.security": "보안",
   "account.password": "비밀번호:",
