@@ -38,6 +38,8 @@
   "account.email.not_set": "ไม่ได้ตั้งค่า",
   "account.rank": "ยศ:",
   "account.upgrade": "อัปเกรด",
+  "account.role_expires": "ถึง:",
+  "account.role_forever": "ตลอดไป",
   
   "account.security": "ความปลอดภัย",
   "account.password": "รหัสผ่าน:",
