@@ -38,6 +38,8 @@
   "account.email.not_set": "Ayarlanmadı",
   "account.rank": "Derece:",
   "account.upgrade": "Yükselt",
+  "account.role_expires": "Bitiş:",
+  "account.role_forever": "Süresiz",
   
   "account.security": "Güvenlik",
   "account.password": "Şifre:",
