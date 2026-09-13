@@ -38,6 +38,8 @@
   "account.email.not_set": "Chưa thiết lập",
   "account.rank": "Hạng:",
   "account.upgrade": "Nâng cấp",
+  "account.role_expires": "Đến:",
+  "account.role_forever": "Vĩnh viễn",
   
   "account.security": "Bảo mật",
   "account.password": "Mật khẩu:",
